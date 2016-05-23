@@ -1,0 +1,17 @@
+{
+  "name": "libre-office-converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Milton <michael.r.milton@gmail.com> (http://protomeric.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "data-uri-to-buffer": "0.0.4",
+    "file-url": "^1.1.0",
+    "lodash": "^4.8.2"
+  }
+}
